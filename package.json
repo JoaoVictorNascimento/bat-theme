@@ -3,7 +3,7 @@
   "publisher": "nascimentoj",
   "displayName": "bat-theme",
   "description": "The theme using by Batman",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icon": "icon-batman.jpg",
   "engines": {
     "vscode": "^1.83.0"
