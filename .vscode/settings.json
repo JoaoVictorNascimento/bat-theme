@@ -1,0 +1,7 @@
+{
+    "editor.defaultColorDecorators": true,
+    "editor.semanticTokenColorCustomizations": {
+
+    },
+    "editor.bracketPairColorization.enabled": true
+}
